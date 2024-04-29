@@ -24,7 +24,8 @@ The project consists of an HTML file (`index.html`), a CSS file (`index.css`), a
 
 ## Getting Started
 1. Clone the repository:
-   ```bash https://github.com/JayGumate/Coding-Assessment-L-2-Code-Submission-Process-with-Boilerplate.git
+   
+   https://github.com/JayGumate/Coding-Assessment-L-2-Code-Submission-Process-with-Boilerplate.git
 
 
 ## Usage
